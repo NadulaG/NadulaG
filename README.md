@@ -18,6 +18,7 @@ BlueDragon is a Minecraft server network with almost all custom-coded plugins.
 🐦 [Twitter](https://twitter.com/BDMCNetwork) **·**
 ⚙ [GitHub](https://github.com/BlueDragonMC)
 
+---
 
 ### 🔌 Socials:
 
