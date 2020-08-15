@@ -22,6 +22,7 @@ BlueDragon is a Minecraft server network with almost all custom-coded plugins.
 
 ### 🔌 Socials:
 
+
 <a href="https://twitter.com/nadulag">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
