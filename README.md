@@ -7,7 +7,7 @@ Tech enthusiast & ethical hacker.
 
 ---
 
-### 🛠 Currently Working On: 🐲 BlueDragon
+### 🛠 Currently Working On: ®️ BlueDragon
 BlueDragon is a Minecraft server network with almost all custom-coded plugins.
 
 
