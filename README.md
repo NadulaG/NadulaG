@@ -7,16 +7,12 @@ Tech enthusiast & ethical hacker.
 
 ---
 
-### 🛠 Currently Working On: ®️ BlueDragon
-BlueDragon is a Minecraft server network with almost all custom-coded plugins.
+### 🛠 Currently Working On: 🤖 Radium
+Radium is an all-in-one Discord bot. 
 
 
 
-❓ [About](https://bluedragonmc.com/p/about) **·**
-👨‍💻 [Website](https://bluedragonmc.com) **·**
-💬 [Discord](https://discord.gg/3gvSPdW) **·**
-🐦 [Twitter](https://twitter.com/BDMCNetwork) **·**
-⚙ [GitHub](https://github.com/BlueDragonMC)
+💬 [Discord](https://discord.gg/jmqdCN5) **·**
 
 ---
 
