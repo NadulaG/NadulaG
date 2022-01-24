@@ -12,7 +12,7 @@ Radium is an all-in-one Discord bot.
 
 
 
-💬 [Discord](https://discord.gg/jmqdCN5) **·**
+💬 [Discord](https://discord.gg/jmqdCN5)
 
 ---
 
