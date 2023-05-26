@@ -9,5 +9,5 @@
 ✨ I'm a motivated and committed student with a great passion for computer science, technology, and community
 service.
 
-- 💡 Currently learning: SvelteKit, Firebase, TypeScript, C++, Docker.
+- 💡 Currently learning: Flutter, C++, Docker.
 - 📫 How to reach me: [@NadulaG](https://twitter.com/NadulaG)
